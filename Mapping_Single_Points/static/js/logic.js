@@ -12,7 +12,6 @@ let map = L.map("mapid", {
   });
   //  Add a marker to the map for Los Angeles, California.
 let marker = L.marker([34.0522, -118.2437]).addTo(map);
-
 //L.circleMarker([34.0522, -118.2437]).addTo(map);
 // Skill drill 13.4.1
 L.circleMarker([34.0522, -118.2437],{
