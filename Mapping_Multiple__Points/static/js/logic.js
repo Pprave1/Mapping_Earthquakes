@@ -17,7 +17,7 @@ let marker = L.marker([34.0522, -118.2437]).addTo(map);
   //console.log(city)
 // });
 // Get data from cities.js
-//let cityData = cities;
+ let cityData = cities;
 // Loop through the cities array and create one marker for each city.Plus a thousands separator using tolocalstring 
 //cityData.forEach(function (city) {
 
@@ -41,7 +41,8 @@ cityData.forEach(function(city) {
         lineweight: 4
     })
        .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
-        addTo(map);
+
+        .addTo(map);
 });
 
 
