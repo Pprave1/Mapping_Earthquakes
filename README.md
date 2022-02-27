@@ -23,9 +23,10 @@
 
    ## Results
     
-    ###  Added  Tectonic Plate Data
+  ###  Added  Tectonic Plate Data
     
-    !Deliverable1_2[.png](images/Deliverable1_2.png)
+    
+  ![Deliverable1_2.png](images/Deliverable1_2.png)
     
     
 
