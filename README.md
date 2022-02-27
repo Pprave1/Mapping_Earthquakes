@@ -25,5 +25,7 @@
     
     ###  Added  Tectonic Plate Data
     
+    ![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
+    
 
     
