@@ -18,5 +18,6 @@
    ## Results
     
     ###  Added  Tectonic Plate Data
-    ![Deliverable1and2.png](images/Deliverable1and2.png)
+    
+    ![Deliverable1and2.png](C:\Users\prave\Priya\OsuBootCampModules\OSU Boot Camp\Module 13\Mapping_Earthquakes\images/Deliverable1and2.png)
     
