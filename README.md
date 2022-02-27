@@ -1,13 +1,14 @@
 # Mapping_Earthquakes
-
 ## Overview
 
-    The purpose of the project was to create a tectonic plates' location using earthquake data with a 
-    magnitude greater than 4.5 on the map. Also, created data on third map.
+    The purpose of the project was to create a tectonic plates' location using earthquake data   
+    with a magnitude greater than 4.5 on the map. Also, created data on third map.
+    
+    This was accomplished using knowledge of JavaScript, Leaflet.js, and geoJSON data and 
+    github. The main objective was to:
 
-    This was accomplished using knowledge of JavaScript, Leaflet.js, and geoJSON data and github. The 
-    main objective was to:
-      
+
+
 ###	Retrieve data from a GeoJSON file
 
 ###	Made API requests to a server to host geographical maps.
