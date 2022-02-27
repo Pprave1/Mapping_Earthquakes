@@ -28,7 +28,7 @@
     
   ![Deliverable1_2.png](images/Deliverable1_2.png)
   
- ###  Added dark map layer
+ ###  Added dark map layer and map key based on Magnitude
  
   ![Deliverable_3.png](images/Deliverable_3.png)
  
